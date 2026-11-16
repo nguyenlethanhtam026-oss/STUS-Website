@@ -1,0 +1,30 @@
+STUS WEBSITE DEMO — HƯỚNG DẪN CHẠY
+
+1. Giải nén STUS_Website_Demo.zip.
+2. Mở thư mục STUS_Website.
+3. Nhấp đúp vào index.html.
+4. Chọn Chrome hoặc Edge nếu máy hỏi ứng dụng mở tệp.
+
+Không cần cài phần mềm lập trình để xem website.
+
+Muốn chỉnh sửa mã:
+- Cài Visual Studio Code.
+- Mở VS Code > File > Open Folder > chọn thư mục STUS_Website.
+- Mở index.html để xem và sửa HTML, CSS, JavaScript.
+- Lưu bằng Ctrl + S, sau đó tải lại trang web trong trình duyệt.
+
+Có thể cài tiện ích Live Server trong VS Code:
+- Mở Extensions (Ctrl + Shift + X).
+- Tìm "Live Server" và cài đặt.
+- Nhấp phải index.html > Open with Live Server.
+
+Các chức năng demo:
+- Tìm kiếm, lọc sản phẩm theo môn/khối/loại.
+- Xem chi tiết tài liệu.
+- Giỏ hàng, chỉnh số lượng, xóa sản phẩm.
+- Thanh toán mô phỏng.
+- Thư viện tài liệu demo.
+- Ghi nhớ giỏ hàng và thư viện bằng LocalStorage.
+
+Lưu ý:
+Sản phẩm, giá và nội dung xem trước là dữ liệu minh họa. Website chưa có máy chủ, tài khoản thật, lưu file an toàn hay cổng thanh toán thật. Không nhập thông tin ngân hàng hoặc mật khẩu thật.
